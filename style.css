@@ -50,3 +50,9 @@ body {
     max-width: 95%;
   }
 }
+
+.info {
+  width: 80%;
+  left: 50%;
+  margin: 20px;
+}
